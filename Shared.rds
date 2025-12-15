@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Shared">
-  <ConnectionProperties>
-    <Extension>OLEDB</Extension>
-    <ConnectString>Provider=SQLOLEDB.1;Data Source=DESKTOP-TRG8BAC;Initial Catalog=ITI_Examination_System</ConnectString>
-    <IntegratedSecurity>true</IntegratedSecurity>
-  </ConnectionProperties>
-  <DataSourceID>bc09b3bb-986c-4c20-9260-387106608d30</DataSourceID>
-</RptDataSource>
